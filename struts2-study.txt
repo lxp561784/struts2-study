@@ -1,0 +1,2 @@
+struts零配置约定大于配置，学习时参考的文章
+http://www.cnblogs.com/binger/archive/2012/09/26/2704597.html
