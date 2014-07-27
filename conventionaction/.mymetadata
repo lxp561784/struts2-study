@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="conventionaction"
+  id="myeclipse.1406203819505"
+  context-root="/conventionaction"
+  j2ee-spec="6.0"
+  archive="conventionaction.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
